@@ -1,0 +1,37 @@
+#price{
+    float: right;
+}
+
+#date {
+    float: left;
+}
+
+#nbOfServices{
+    float: left;
+}
+
+#recent{
+    float: right;
+}
+
+
+.filterRow{
+    padding: 3%;
+    font-size: 15px;
+}
+
+.card{
+    margin: 10px;
+    font-size: 14px;
+    border: 0;
+    width: 14rem;
+}
+
+.card-header{
+    color: rgb(112, 37, 10);
+}
+
+.toBeCentered{
+    padding-left: auto;
+    padding-right: auto;
+}

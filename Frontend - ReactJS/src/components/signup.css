@@ -1,0 +1,28 @@
+.SignupForm{
+    margin: 2%;
+    padding: 2%;
+    border-radius: 30px;
+    border-style: solid rgb(247, 246, 246);
+    box-shadow: 0.5em 0 .7em rgb(241, 241, 241), -0.5em 0 .7em rgb(233, 233, 233);
+    font-size: 13px;
+
+}
+
+.SignupForm h3{
+    font-size: 20px;
+}
+.illustration2{
+    margin: auto 7%;
+}
+
+.form-check{
+    padding: 0.5%;
+}
+
+.signupButton{
+    margin: 1%;
+}
+
+.signupButton button{
+    border-radius: 70px;
+}

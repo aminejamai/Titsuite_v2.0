@@ -1,0 +1,21 @@
+.floatRight{
+    float : right;
+}
+
+.freelancerProfile{
+    float : left;
+}
+
+.PersonalDetails{
+    width: 60%;
+    padding: 3%;
+    border-radius: 15px;
+}
+
+.ProfileHeader{
+    padding: 2%;
+}
+
+.profileIllustration{
+    padding-top: 15%;
+}

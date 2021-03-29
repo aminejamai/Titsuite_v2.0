@@ -1,0 +1,40 @@
+
+
+.Content{
+    /* background-color: #F1F3F6; */
+    /* width:100%; */
+    /* height:100%; */
+    margin: 1.5%;
+    box-shadow: 0.5em 0 .7em rgb(241, 241, 241), -0.5em 0 .7em rgb(233, 233, 233);
+}
+
+.chart{
+    /* display: flex; */
+    /* justify-content: center;  */
+    width: 1000px;
+}
+
+.btn{
+    margin-left: 2%;
+}
+
+.titleDashboard{
+    font-size: 18px;
+    padding:3%;
+   
+}
+
+.table {
+    font-size: 13px;
+    box-shadow: 0.5em 0 .7em rgb(241, 241, 241), -0.5em 0 .7em rgb(233, 233, 233);
+}
+
+.overview{
+    /* font-size: 20px; */
+    padding: 3%;
+    float: left;
+   
+}
+#recent{
+    padding: 3%;
+}
