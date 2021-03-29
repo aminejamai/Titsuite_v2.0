@@ -1,0 +1,9 @@
+.MoreStyle{
+    padding: 3%;
+    border-radius: 10%;
+    box-shadow: 0.5em 0 .7em rgb(241, 241, 241), -0.5em 0 .7em rgb(233, 233, 233);
+}
+
+.img-center{
+    padding-top: 10%;
+}

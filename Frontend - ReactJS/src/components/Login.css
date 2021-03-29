@@ -1,0 +1,30 @@
+.FormDiv{
+    background-color: whitesmoke;
+    height: 90vh;
+    box-shadow: 0.5em 0 .7em rgb(241, 241, 241), -0.5em 0 .7em rgb(233, 233, 233);
+    align-items: center;
+    justify-content: center;
+    border-radius: 30px;
+    border-style: solid rgb(247, 246, 246);
+    margin: 2%;
+}
+
+.illustration{
+    padding: 6%;
+}
+
+.LoginContent{
+    padding: 6%;
+}
+
+.form-group input {
+    border-radius: 70px;
+}
+
+#submitButton {
+    border-radius: 70px;
+}
+
+.LoginForm{
+    padding: 3% 6%;
+}

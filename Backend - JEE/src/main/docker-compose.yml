@@ -1,0 +1,26 @@
+version: '3'
+
+services:
+
+  web:
+
+    build: .
+
+    ports:
+      - 8080:8080
+
+    links:
+      - db:dummy
+
+  db:
+
+    image: store/oracle/database-enterprise:12.2.0.1
+
+    environment:
+
+      ORACLE_ROOT_PASSWORD: amine5033
+
+      ORACLE_DATABASE: dummy
+
+    ports:
+      - 1522:1522
